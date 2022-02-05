@@ -11,4 +11,7 @@ body {
 
 .textstyles {
   color: whitesmoke;
+  font-family: outfit;
+  display: inline-block;
+  left: 20px;
 }
